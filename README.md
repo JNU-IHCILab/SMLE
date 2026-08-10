@@ -14,12 +14,14 @@ Experiments can be started by running the `demo` script.
 ## Cite
 Please cite our paper if you use this code in your own work:
 
-    @ARTICLE{11034724,
-    author={Ye, Qianzhi and Zhang, Jia and Wu, Hanrui and Gu, Tianlong and Chen, C. L. Philip and Long, Jinyi},
-    journal={IEEE Transactions on Knowledge and Data Engineering}, 
-    title={SMLE: Semi-Supervised Multi-Label Learning with Label Enhancement}, 
-    year={2025},
-    doi={10.1109/TKDE.2025.3579536}}
-
+@ARTICLE{11034724,
+  author={Ye, Qianzhi and Zhang, Jia and Wu, Hanrui and Gu, Tianlong and Chen, C. L. Philip and Long, Jinyi},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={SMLE: Semi-Supervised Multi-Label Learning with Label Enhancement}, 
+  year={2025},
+  volume={37},
+  number={9},
+  pages={5613-5626},
+  doi={10.1109/TKDE.2025.3579536}}
 
 If you have any questions about the code or the paper, we are happy to help!
